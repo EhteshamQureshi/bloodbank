@@ -1,2 +1,2 @@
 # bloodbank
- This semester projecty for DBMS Spring 2020
+ This is semester projecty for DBMS Spring 2020
